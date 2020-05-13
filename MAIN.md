@@ -13,4 +13,4 @@
 
 
 ##### React-Table
-[Select Row onClick with React-Table] (https://stackoverflow.com/questions/44845372/select-row-on-click-react-table)
+[Select Row onClick with React-Table](https://stackoverflow.com/questions/44845372/select-row-on-click-react-table)
