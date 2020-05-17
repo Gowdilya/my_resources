@@ -18,3 +18,9 @@
 
     // scale() instead makes it 30% darker than it was originally.
     @debug color.scale(#036, $lightness: -30%); // #002447
+
+My Example Code:
+
+    $rouge:#ed1a39;
+    $rouge-light: scale-color($rouge, $lightness: +30%);
+    $rouge-dark: scale-color($rouge, $lightness: -30%);
