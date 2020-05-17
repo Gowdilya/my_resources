@@ -29,3 +29,6 @@
 
 ### CodePen
 * [3-Bouncy Ball Loader](https://codepen.io/mkurapov/pen/qaAmNE)
+
+### CSS-Tricks
+* [darken() & lighten() colours with Sass or Less](https://css-tricks.com/snippets/javascript/lighten-darken-color/)
