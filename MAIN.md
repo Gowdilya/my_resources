@@ -13,6 +13,8 @@
 * [md file writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
+
+
 # JavaScript
  ## Useful JS Libraries & Packages
 * [Nano ID](https://github.com/ai/nanoid) & [Nano ID Calculator](https://zelark.github.io/nano-id-cc/) for unique string ID generation
@@ -53,3 +55,11 @@
 * [wix](https://wix.com)
     ## Corvid References
     * [Storage](https://www.wix.com/corvid/reference/wix-storage.html)
+
+
+# Microsoft Azure 
+  * [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+
+  * [My Azure Architecture Notes](Azure-Architecture-Notes.md)
+
+  * [HPC-High Performance Computing](https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing)
