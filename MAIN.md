@@ -5,7 +5,13 @@
     Here you will find technical, and some non-technical resources I have used, was intrigued by or found useful in my Software Developement Career.
 
 # Important Topics
-[JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization) |[MD File](#md-file)
+[MD File](#md-file)| [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix)
+
+  
+# MD File
+  The first thing you might want to know is how to write an md file like this one.
+* [md file writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
 
 # JavaScript
  ## Useful JS Libraries & Packages
@@ -43,5 +49,7 @@
 * [d3](https://d3js.org/)
 * [d3 with React](https://www.freecodecamp.org/news/how-to-get-started-with-d3-and-react-c7da74a5bd9f/)
 
-# MD File
-* [md file writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+# Wix
+* [wix](https://wix.com)
+    ## Corvid References
+    * [Storage](https://www.wix.com/corvid/reference/wix-storage.html)
