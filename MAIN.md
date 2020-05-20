@@ -60,6 +60,6 @@
 # Microsoft Azure 
   * [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
 
-  * [My Azure Architecture Notes](Azure-Architecture-Notes.md)
+  * [My Azure Architecture Notes](AzureArchitectureNotes.md)
 
   * [HPC-High Performance Computing](https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing)
