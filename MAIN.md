@@ -22,6 +22,9 @@
 
 * [Moment.js](https://momentjs.com/) to parse, validate, manipulate, and display **dates** in javascript
 
+ ## Concepts
+ * [Immutability](https://www.sitepoint.com/immutability-javascript/)
+
 
 # React
  ## Courses 
