@@ -5,7 +5,7 @@
     Here you will find technical, and some non-technical resources I have used, was intrigued by or found useful in my Software Developement Career.
 
 # Important Topics
-[MD File](#md-file)| [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix) |[GraphQL](graphQL)
+[MD File](#md-file)| [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix) |[GraphQL](graphQL) | [Virtualization](#virtualization)
 
   
 # MD File
@@ -56,7 +56,7 @@
 * [d3 with React](https://www.freecodecamp.org/news/how-to-get-started-with-d3-and-react-c7da74a5bd9f/)
 
 # GraphQL
-## Video Tutorial
+### Video Tutorial
 * [Academind: Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_&index=1)
 
 
@@ -72,3 +72,8 @@
   * [My Azure Architecture Notes](AzureArchitectureNotes.md)
 
   * [HPC-High Performance Computing](https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing)
+
+  # Virtualization
+    ## Docker
+      ### Video Tutorial
+      *[Docker Tutorial for Beginners by CodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
