@@ -17,6 +17,7 @@
 
 # JavaScript
  ## Useful JS Libraries & Packages
+ * [Immutability Helper](https://github.com/kolodny/immutability-helper) library to help update immutable data with simpler syntax
 * [Nano ID](https://github.com/ai/nanoid) & [Nano ID Calculator](https://zelark.github.io/nano-id-cc/) for unique string ID generation
 
 * [Moment.js](https://momentjs.com/) to parse, validate, manipulate, and display **dates** in javascript
