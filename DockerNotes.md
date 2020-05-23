@@ -41,10 +41,24 @@ Example:
 >you can verify the states of the stopped containers with `docker ps -a`
 
 `docker rm [container name/container id]`
-* use to **remove** a stopped container permenantly
+* used to **remove** a stopped container permenantly
 
 
 ## Image of OS will Crashes
 `docker run ubuntu` will stop right away and be in an exited state.
 Because unlike virtual machines containers are not meant to host an operating system. Containers are meant to host an instance of a specific task or process, like a host server, application server or database, or carry some computation. Once the task completes, the container exits. A container only lives as long as the process inside it is alive. If a WebService inside a container crashes or is stopped, the container exits.
 
+If the image is'nt running any process, you can instruct docker to run a command.
+
+        `docker run ubuntu`
+        `docker run ubuntu sleep 5`
+
+What if we want to run a comman on a running container?
+
+    `docker exec distraced_mcclintock cat /etc/hosts`
+> prints the contents of the etc/hosts file
+
+## Run - attach and detach
+By default `docker run [image]` executes containers in attached mode, runs in the forground. Attached to the console/standard out, and you can only view the output untill the container stops.
+
+Alternative: `docker run -d [image]`
