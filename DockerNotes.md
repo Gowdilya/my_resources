@@ -5,6 +5,9 @@
 * Containers: Are running instances of images, that are isolated and have their own environments and set of processes
 
 ## Docker Commands
+
+**Important:** When entering any docker command with a `[container_id]` you can enter just the first few charecters. It will execute on the specfied container as long as entered prefix is unique from the other `containers_id's`.
+
 `docker images`
 * use to see a **list** of **images** available, and there sizes
 
@@ -50,15 +53,18 @@ Because unlike virtual machines containers are not meant to host an operating sy
 
 If the image is'nt running any process, you can instruct docker to run a command.
 
-        `docker run ubuntu`
-        `docker run ubuntu sleep 5`
+        docker run ubuntu
+        docker run ubuntu sleep 5
 
 What if we want to run a comman on a running container?
 
-    `docker exec distraced_mcclintock cat /etc/hosts`
+    docker exec distraced_mcclintock cat /etc/hosts
 > prints the contents of the etc/hosts file
 
 ## Run - attach and detach
 By default `docker run [image]` executes containers in attached mode, runs in the forground. Attached to the console/standard out, and you can only view the output untill the container stops.
 
-Alternative: `docker run -d [image]`
+Alternative: `docker run -d [image]` runs it in the background mode
+to attach back to the container run 
+
+    docker attach [contianer_name/container_id]
