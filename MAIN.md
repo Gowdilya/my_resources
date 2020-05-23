@@ -5,7 +5,7 @@
     Here you will find technical, and some non-technical resources I have used, was intrigued by or found useful in my Software Developement Career.
 
 # Important Topics
-[MD File](#md-file)| [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix) |[GraphQL](graphQL) | [Virtualization](#virtualization)
+[MD File](#md-file)| [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix) |[GraphQL](#graphQL) | [Virtualization](#virtualization)
 
   
 # MD File
@@ -76,6 +76,7 @@
   # Virtualization
   ## Docker
   ### Video Tutorial
-  * [Docker Tutorial for Beginners by CodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+  * [Docker Tutorial for Beginners by CodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo) a very comprehensive and excelent video on docker for beginners, with assignments in [Docker Labs](https://kodekloud.com/p/docker-labs).
+  * [Docker Labs](https://kodekloud.com/p/docker-labs)
   ### Notes
   * [My Docker Notes](DockerNotes.md)
