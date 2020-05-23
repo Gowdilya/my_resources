@@ -46,5 +46,5 @@ Example:
 
 ## Image of OS will Crashes
 `docker run ubuntu` will stop right away and be in an exited state.
-Because unile virtual machines containers are not meant to host an operating system. Containers are meant to host an instance of a specific task or process, like a host server, application server or database, or carry some computation. Once the task completes, the container exits. A container only lives as long as the process inside it is alive. If a WebService inside a container crashes or is stopped, the container exits.
+Because unlike virtual machines containers are not meant to host an operating system. Containers are meant to host an instance of a specific task or process, like a host server, application server or database, or carry some computation. Once the task completes, the container exits. A container only lives as long as the process inside it is alive. If a WebService inside a container crashes or is stopped, the container exits.
 
