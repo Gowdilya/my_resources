@@ -62,7 +62,7 @@
 
 # Wix
 * [wix](https://wix.com)
-    ## Corvid References
+  ## Corvid References
     * [Storage](https://www.wix.com/corvid/reference/wix-storage.html)
 
 
@@ -74,6 +74,8 @@
   * [HPC-High Performance Computing](https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing)
 
   # Virtualization
-    ## Docker
-      ### Video Tutorial
-      *[Docker Tutorial for Beginners by CodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+  ## Docker
+  ### Video Tutorial
+  * [Docker Tutorial for Beginners by CodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+  ### Notes
+    [My Docker Notes](DockerNotes.md)
