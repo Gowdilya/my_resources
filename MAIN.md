@@ -78,4 +78,4 @@
   ### Video Tutorial
   * [Docker Tutorial for Beginners by CodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
   ### Notes
-    [My Docker Notes](DockerNotes.md)
+  * [My Docker Notes](DockerNotes.md)
