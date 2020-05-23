@@ -1,5 +1,5 @@
 #  Docker Notes - Gowdilya Jeyakumar
->These notes can be useful once you already have docker installed and setup on yout computer
+>These notes can be useful once you already have docker installed and setup on your computer
 
 * Image: Is a package or a template used to create one or more containers
 * Containers: Are running instances of images, that are isolated and have their own environments and set of processes
