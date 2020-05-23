@@ -56,7 +56,7 @@ If the image is'nt running any process, you can instruct docker to run a command
         docker run ubuntu
         docker run ubuntu sleep 5
 
-What if we want to run a comman on a running container?
+What if we want to run a command on a running container?
 
     docker exec distraced_mcclintock cat /etc/hosts
 > prints the contents of the etc/hosts file
