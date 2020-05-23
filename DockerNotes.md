@@ -50,21 +50,30 @@ Example:
 ## Image of OS will Exit
 `docker run ubuntu` will stop right away and be in an exited state.
 Because unlike virtual machines containers are not meant to host an operating system. Containers are meant to host an instance of a specific task or process, like a host server, application server or database, or carry some computation. Once the task completes, the container exits. A container only lives as long as the process inside it is alive. If a WebService inside a container crashes or is stopped, the container exits.
+<br/>
+<br/>
 
-If the image is'nt running any process, you can instruct docker to run a command.
+If the image is'nt running any process, you can instruct docker to run a command:
 
         docker run ubuntu
         docker run ubuntu sleep 5
-
+<br/>
+<br/>
 What if we want to run a command on a running container?
 
     docker exec distraced_mcclintock cat /etc/hosts
 > prints the contents of the etc/hosts file
 
+<br/>
+<br/>
+
 ## Run - attach and detach
 By default `docker run [image]` executes containers in attached mode, runs in the forground. Attached to the console/standard out, and you can only view the output untill the container stops.
 
-Alternative: `docker run -d [image]` runs it in the background mode
-to attach back to the container run 
+Alternative: `docker run -d [image]` runs it in the background mode.
+
+<br/>
+<br/>
+To attach back to the container run :
 
     docker attach [contianer_name/container_id]
