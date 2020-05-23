@@ -96,3 +96,14 @@ Alternative: `docker run -d [image]` runs it in the background mode.
 To attach back to the container run :
 
     docker attach [contianer_name/container_id]
+<br/>
+<br/>
+
+    docker system prune
+
+This will remove:
+
+            - all stopped containers
+            - all networks not used by at least one container
+            - all dangling images
+            - all dangling build cache
