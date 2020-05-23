@@ -125,7 +125,19 @@ To attach back to the container run :
 
     docker run [image]:[tag]
 
-To specify version of the Image (example: version=4.0 of redis(current_version=5.0.5)) 
+To specify version of the Image (example: version=4.0 of redis(defaukt_version=latest(version=5.0.5))) 
 
     Example:
         docker run redis:4.0
+
+---
+
+## Run - STDIN
+
+Docker container wont't wait for the prompt, because it runs in a non-interactive mode. Docker containers can't listen to standard input even though its attached to the console. It doesn't have a terminal to read input from. It runs in a non-inetractive mode.
+
+If you want to provide your input, you must map the standard input of your host to the docker container using the -i parameter (interactive mode).
+
+    docker run -i [image]
+
+
