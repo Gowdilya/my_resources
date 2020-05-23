@@ -7,9 +7,15 @@
 ## Docker Commands
 
 **Important:** When entering any docker command with a `[container_id]` you can enter just the first few charecters. It will execute on the specfied container as long as entered prefix is unique from the other `containers_id's`.
+<br/>
+<br/>
 
 `docker images`
 * use to see a **list** of **images** available, and there sizes
+
+<br/>
+<br/>
+
 
 `docker run [image]`
  * used to **run** a docker **container** from an **image**
@@ -19,18 +25,26 @@ Example:
 >`docker run nginx`
 
 > will run an instance of the nginx application on the docker host if it already exists. If the image is not present on the host, it will go to **docker hub** and pull the image
+
 <br/>
 <br/>
 
 `docker pull [image]`
 * Can be used if you want to download the image from **docker hub** and not run a container
 
+<br/>
+<br/>
+
 `docker rmi [image]`
 * to **remove** an image you no longer plan to use (and no containers are running off of that image)
+
+<br/>
+<br/>
 
 `docker ps`
 
 * list all running containers and its basic information: Container ID, Name of Image, STATUS, NAME of Container
+
 <br/>
 <br/>
    
@@ -43,9 +57,14 @@ Example:
 `docker stop [container name/container id]`
 >you can verify the states of the stopped containers with `docker ps -a`
 
+<br/>
+<br/>
+
 `docker rm [container name/container id]`
 * used to **remove** a stopped container permenantly
 
+<br/>
+<br/>
 
 ## Image of OS will Exit
 `docker run ubuntu` will stop right away and be in an exited state.
