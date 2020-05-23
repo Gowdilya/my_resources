@@ -77,5 +77,5 @@
   ### Video Tutorial
   * [Docker Tutorial for Beginners by CodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo) a very comprehensive and excelent video on docker for beginners, with assignments in [Docker Labs](https://kodekloud.com/p/docker-labs).
   * [Docker Labs](https://kodekloud.com/p/docker-labs)
-  ### Notes
-  * [My Docker Notes](DockerNotes.md)
+  ### [Notes](DockerNotes.md)
+  
