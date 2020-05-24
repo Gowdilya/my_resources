@@ -2,18 +2,17 @@
 
 ---
 # Welcome
-    Here you will find technical, and some non-technical resources I have used, was intrigued by or found useful in my Software Developement Career.
+    
+  Here you will find technical, and some non-technical resources I have used, was intrigued by or found useful in my Software Developement Career. If you want to create your own md file like this one, all you need is some [**basic syntax**](https://www.markdownguide.org/basic-syntax/) to get started.
+
+
 ---
 # Important Topics
-[MD File](#md-file)| [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix) |[GraphQL](#graphQL) | [Virtualization](#virtualization)
+ [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix) |[GraphQL](#graphQL) | [Virtualization](#virtualization)
 
 ---
-# MD File
-  The first thing you might want to know is how to write an md file like this one.
-* [md file basic syntax](https://www.markdownguide.org/basic-syntax/)
 
 
----
 
 # JavaScript
  ## Useful JS Libraries & Packages
