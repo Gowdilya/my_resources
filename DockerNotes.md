@@ -13,7 +13,7 @@ When entering any docker command with a `[container_id]` you can enter just the 
 <br/>
 <br/>
 ***
-`docker images`
+    docker images
 
  **List** available **images**, and there sizes
 
@@ -22,7 +22,7 @@ When entering any docker command with a `[container_id]` you can enter just the 
 *** 
 
 
-`docker run [image]`
+    docker run [image]
 
 **Run** a docker **container** from an **image**
 
@@ -36,7 +36,7 @@ Example:
 
 
 
-`docker pull [image]`
+    docker pull [image]
 
  **Download** the image from **docker hub** and not run a container
 
@@ -46,25 +46,25 @@ Example:
 
 
 
-`docker rmi [image]`
+    docker rmi [image]
 
  **Remove** an image you no longer plan to use (and no containers are running off of that image)
 
 ***
 
-`docker ps`
+    docker ps
 
  **List** all running containers and its basic information: Container ID, Name of Image, STATUS, NAME of Container
 
 ***
    
-`docker ps -a`
+    docker ps -a
 
 Lists all running or non-running(previously exited) containers.
 
 ***
 
-`docker stop [container name/container id]`
+    docker stop [container name/container id]
 
 Stops a running container.
 
@@ -72,7 +72,7 @@ Stops a running container.
 
 ***
 
-`docker rm [container name/container id]`
+    docker rm [container name/container id]
 
  used to **remove** a stopped container permenantly
 
@@ -140,4 +140,38 @@ If you want to provide your input, you must map the standard input of your host 
 
     docker run -i [image]
 
+To see the prompt message...
 
+    docker run  -it [image]
+
+-t is for pseudo terminal. The combination of -it we are attached to the terminal(see the prompt message), and in an interactive mode(can enter input).
+
+---
+
+## PORT mapping
+
+Map docker host (port) to the container (port).
+
+        docker run -p [host_port]:[container_port] [image]      
+
+        docker run -p 80:5000 test-webapp
+
+multiple containers might have the same port# (instances of the same web app) which you can map to unique host ports.
+
+**Important**: you CAN NOT map to the same host port more than once.
+
+---
+## RUN - Volume mapping
+
+    docker run mysql
+
+    docker stop mysql
+    docker rm mysql
+
+When you stop and delete the container, you lose all the data stored within it.
+
+If you want to **persist** the data, you want to map a directory outside the container on the docker host to a directory inside the container
+
+    docker run -v [host_directory]:[container_directory] [image]
+
+    Example: docker run -v /opt/datadir:/var/lib/mysql mysql
