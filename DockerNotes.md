@@ -51,17 +51,26 @@ Example:
  **Remove** an image you no longer plan to use (and no containers are running off of that image)
 
 ***
+## Collect Information
 
     docker ps
 
  **List** all running containers and its basic information: Container ID, Name of Image, STATUS, NAME of Container
 
-***
+
    
     docker ps -a
 
 Lists all running or non-running(previously exited) containers.
 
+
+    docker inspect [container_id/container_name]
+
+Returns all details of a container in a JSON Format
+
+    docker  logs [container_id/container_name]
+
+View the logs(contents written to the stdout of the container)
 ***
 
     docker stop [container name/container id]
