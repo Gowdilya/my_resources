@@ -33,6 +33,7 @@
 * [React Patterns](https://reactpatterns.com/)
  ## Useful React Libraries & Packages
 * [react-table](#react-table) 
+* [react-i18next](https://react.i18next.com/) a powerful internationalization/translation framework for React / React Native which is based on [i18next](https://www.i18next.com/).
 
 
 

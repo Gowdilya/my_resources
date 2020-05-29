@@ -184,3 +184,17 @@ If you want to **persist** the data, you want to map a directory outside the con
     docker run -v [host_directory]:[container_directory] [image]
 
     Example: docker run -v /opt/datadir:/var/lib/mysql mysql
+
+---
+
+## Docker Environment Variables
+
+Run multiple containers with different environment variables
+
+    docker run -e APP_COLOR=blue simple-webapp-color
+    docker run -e APP_COLOR=red simple-webapp-color
+    docker run -e APP_COLOR=green simple-webapp-color
+
+Inspect the properties of a running container, to see see the environment variables for it.
+    docker inspect [container-name]
+
