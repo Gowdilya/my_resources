@@ -16,13 +16,22 @@
 
 # JavaScript
  ## Useful JS Libraries & Packages
+
+ * [Recoil](https://recoiljs.org/) state management library for React by facebook.
+
  * [Immutability Helper](https://github.com/kolodny/immutability-helper) library to help update immutable data with simpler syntax
+
 * [Nano ID](https://github.com/ai/nanoid) & [Nano ID Calculator](https://zelark.github.io/nano-id-cc/) for unique string ID generation
 
 * [Moment.js](https://momentjs.com/) to parse, validate, manipulate, and display **dates** in javascript
 
+* [React-Notification](https://www.npmjs.com/package/react-notifications) useful and simple to use notification library for Success/Error/Warning and other notifications
+
  ## Concepts
+
  * [Immutability](https://www.sitepoint.com/immutability-javascript/)
+ 
+ * [Code Splitting](ReactAndJSNotes.md#code-splitting)
 
 ---
 # React
@@ -33,12 +42,14 @@
 * [React Patterns](https://reactpatterns.com/)
  ## Useful React Libraries & Packages
 * [react-table](#react-table) 
+
 * [react-i18next](https://react.i18next.com/) a powerful internationalization/translation framework for React / React Native which is based on [i18next](https://www.i18next.com/).
 
 
 
 #### React-Table 
 * [react-table npm package](https://www.npmjs.com/package/react-table)
+
 * [Select Row onClick with React-Table](https://stackoverflow.com/questions/44845372/select-row-on-click-react-table)
 ---
 # UI
