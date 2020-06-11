@@ -8,7 +8,7 @@
 
 ---
 # Important Topics
- [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  |[Wix](wix) |[GraphQL](#graphQL) | [Virtualization](#virtualization)
+ [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  | [GitHub](#github) | [Wix](wix) | [GraphQL](#graphQL) | [Virtualization](#virtualization) | 
 
 ---
 
@@ -90,3 +90,7 @@
   * [Docker Labs](https://kodekloud.com/p/docker-labs)
   ### [Notes](DockerNotes.md)
   
+  ---
+  # GitHub
+
+  * [Install and build from a forked github repo](https://stackoverflow.com/questions/40528053/npm-install-and-build-of-forked-github-repo#:~:text=Try%20npm%20install%20%2F,json%20.)
