@@ -33,6 +33,9 @@
  
  * [Code Splitting](ReactAndJSNotes.md#code-splitting)
 
+ ## Notes
+ * [Array.join() to add comma](ReactAndJSNotes.md#join)
+
 ---
 # React
  ## Courses 
