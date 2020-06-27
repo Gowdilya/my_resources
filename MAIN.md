@@ -27,13 +27,16 @@
 
 * [React-Notification](https://www.npmjs.com/package/react-notifications) useful and simple to use notification library for Success/Error/Warning and other notifications
 
- ## Concepts
+
+## Concepts
+ ### Links
 
  * [Immutability](https://www.sitepoint.com/immutability-javascript/)
  
  * [Code Splitting](ReactAndJSNotes.md#code-splitting)
 
- ## Notes
+## Code
+ ### Notes
  * [Array.join() to add comma](ReactAndJSNotes.md#join)
 
 ---
@@ -60,9 +63,13 @@
 ## CodePen
 * [3-Bouncy Ball Loader](https://codepen.io/mkurapov/pen/qaAmNE)
 
-## CSS-Tricks
+## CSS
+
+### Notes
 * [darken() & lighten() colours with Sass or Less](SassGuide.md#lighten--darken-colour)
 
+### Links
+* [When vertically spacing block elements use top margin instead of bottom margin](https://matthewjamestaylor.com/css-margin-top-vs-bottom)
 ---
 # Data Visualization
 * [d3](https://d3js.org/)
