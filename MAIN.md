@@ -41,7 +41,7 @@
  ### Notes
  * [Array.join() to add comma](ReactAndJSNotes.md#join)
 
-* [Hooks equivalent to Life Cycle Methods](ReactAndJSNotes.md#hooks-equivalent-to-life-cycle-methods)
+
 
 ---
 # React
@@ -55,7 +55,8 @@
 
 * [react-i18next](https://react.i18next.com/) a powerful internationalization/translation framework for React / React Native which is based on [i18next](https://www.i18next.com/).
 
-
+## Notes
+* [Hooks equivalent to Life Cycle Methods](ReactAndJSNotes.md#hooks-equivalent-to-life-cycle-methods)
 
 #### React-Table 
 * [react-table npm package](https://www.npmjs.com/package/react-table)
