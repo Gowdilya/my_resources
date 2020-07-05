@@ -29,7 +29,7 @@ Common Problem: If you want to take an array of strings and turn them into a sin
 
 # React
 ## Hooks
-### [Hooks Equivalent to Life Cycle Methods](#life-cycle-methods-to-hooks)
+### Hooks Equivalent to Life Cycle Methods
 
 #### Component Did Mount
 
