@@ -27,3 +27,50 @@ Common Problem: If you want to take an array of strings and turn them into a sin
     // expected output: "Fire,Air,Water"       
 
 
+# React
+## Hooks
+### [Hooks Equivalent to Life Cycle Methods](#life-cycle-methods-to-hooks)
+
+#### Component Did Mount
+
+        componentDidMount(){
+            // component mounted
+
+        }
+
+        =>
+
+        useEffect(() =>{
+            //called only once
+        }, [])
+
+---
+
+#### Component Will Unmount
+
+        componentWilUnmount(){
+            // component unmounted
+        }
+
+        =>
+
+        useEffect(() =>{
+
+            return()=>{
+                //called before unmounting
+            }
+
+        }, [])
+
+---
+#### Component  Did Update
+
+    componentDidUpdate(){
+        //updated values
+    }
+
+    =>
+
+    useEffect(()=>{
+        //called everytime
+    })

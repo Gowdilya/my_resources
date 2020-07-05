@@ -35,6 +35,8 @@
  
  * [Code Splitting](ReactAndJSNotes.md#code-splitting)
 
+ * [Hooks equivalent to Life Cycle Methods](ReactAndJSNotes.md#life-cycle-methods-to-hooks)
+
 ## Code
  ### Notes
  * [Array.join() to add comma](ReactAndJSNotes.md#join)
