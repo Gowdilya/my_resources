@@ -40,8 +40,8 @@
 ## Code
  ### Notes
  * [Array.join() to add comma](ReactAndJSNotes.md#join)
- 
-* [Hooks equivalent to Life Cycle Methods](ReactAndJSNotes.md#life-cycle-methods-to-hooks)
+
+* [Hooks equivalent to Life Cycle Methods](ReactAndJSNotes.md#hooks-equivalent-to-life-cycle-methods)
 
 ---
 # React
