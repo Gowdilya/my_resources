@@ -8,7 +8,7 @@
 
 ---
 # Important Topics
- [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  | [GitHub](#github) | [Wix](wix) | [GraphQL](#graphQL) | [Virtualization](#virtualization) | 
+ [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  | [GitHub](#github) | [Wix](wix) | [GraphQL](#graphQL) | [Virtualization](#virtualization) | [Performance](#performance)
 
 ---
 
@@ -97,7 +97,15 @@
   * [My Azure Architecture Notes](AzureArchitectureNotes.md)
 
   * [HPC-High Performance Computing](https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing)
+
 ---
+
+# Performance
+
+  *[Web Performance Optimization Stats](https://wpostats.com/)
+
+---
+
   # Virtualization
   ## Docker
   ### Video Tutorial
