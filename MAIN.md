@@ -38,6 +38,9 @@
 
 
 ## Code
+  ### Links
+  * [How to throw InvalidArgumentException in JavaScript](https://stackoverflow.com/questions/38145977/how-to-throw-invalidargumentexception-javascript)
+
  ### Notes
  * [Array.join() to add comma](ReactAndJSNotes.md#join)
 
