@@ -39,6 +39,7 @@
 
 ## Code
   ### Links
+  *[Custom Exceptions in JavaScript](https://stackoverflow.com/questions/464359/custom-exception-type)
   * [How to throw InvalidArgumentException in JavaScript](https://stackoverflow.com/questions/38145977/how-to-throw-invalidargumentexception-javascript)
 
  ### Notes
