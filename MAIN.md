@@ -15,7 +15,9 @@
 ## Solutions
 
 
-  [Two Sums](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/TwoSum.js)
+  [Two Sums: Array](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/TwoSum.js)
+
+[Add Two Numbers: Linked-List](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/AddTwoNumsLinkedList.js)
 
 ---
 
