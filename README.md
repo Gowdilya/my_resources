@@ -178,3 +178,24 @@ Check out my portfolio project at:
   # GitHub
 
   * [Install and build from a forked github repo](https://stackoverflow.com/questions/40528053/npm-install-and-build-of-forked-github-repo#:~:text=Try%20npm%20install%20%2F,json%20.)
+
+  * [Set up SSH](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
+
+  Copy Public Key to Clipboard
+
+```
+pbcopy < ~/.ssh/id_rsa.pub
+```
+
+## Git Hub Pages
+ 
+
+   * [Build and Deploy React App to GitHubPages](
+https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14)
+
+Deployement
+  
+      npm run deploy
+
+* [Hash Routing for  Git Hub Pages](https://medium.com/@bennirus/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2)
+
