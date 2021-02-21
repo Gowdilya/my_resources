@@ -23,6 +23,9 @@
 
 
 # JavaScript
+ ## Notes
+ * [Array.join() to add comma](ReactAndJSNotes.md#join)
+
  ## Useful JS Libraries & Packages
 
  * [Recoil](https://recoiljs.org/) state management library for React by facebook.
@@ -50,8 +53,7 @@
   *[Custom Exceptions in JavaScript](https://stackoverflow.com/questions/464359/custom-exception-type)
   * [How to throw InvalidArgumentException in JavaScript](https://stackoverflow.com/questions/38145977/how-to-throw-invalidargumentexception-javascript)
 
- ### Notes
- * [Array.join() to add comma](ReactAndJSNotes.md#join)
+
 
 
 
