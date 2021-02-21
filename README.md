@@ -5,6 +5,11 @@
     
   Here you will find technical, and some non-technical resources I have used, was intrigued by or found useful in my Software Developement Career. If you want to create your own md file like this one, all you need is some [**basic syntax**](https://www.markdownguide.org/basic-syntax/) to get started.
 
+---
+#  Portfolio
+
+Check out my portfolio project at:
+[https://gowdilya.github.io/portfolio/#/resume](https://gowdilya.github.io/portfolio/#/resume)
 
 ---
 # Important Topics
@@ -15,11 +20,25 @@
 ## Solutions
 
 
-  [Two Sums: Array](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/TwoSum.js)
+
 
 [Add Two Numbers: Linked-List](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/AddTwoNumsLinkedList.js)
 
+[GroupAnagram](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/groupAnagrams.js)
+
+[GroupAnagram-Faster](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/groupAnagrams2FasterSolution.js)
+
+[Two Sums: Array](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/TwoSum.js)
+
+[WordBreak](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/WordBreak.js)
+
+
+
+[WordLadderBFS](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/WordLadderBFS.js)
+
 ---
+
+
 
 
 # JavaScript
@@ -50,7 +69,7 @@
 
 ## Code
   ### Links
-  *[Custom Exceptions in JavaScript](https://stackoverflow.com/questions/464359/custom-exception-type)
+  * [Custom Exceptions in JavaScript](https://stackoverflow.com/questions/464359/custom-exception-type)
   * [How to throw InvalidArgumentException in JavaScript](https://stackoverflow.com/questions/38145977/how-to-throw-invalidargumentexception-javascript)
 
 
@@ -65,9 +84,14 @@
  ## Resources
 * [React Patterns](https://reactpatterns.com/)
  ## Useful React Libraries & Packages
+
 * [react-table](#react-table) 
 
 * [react-i18next](https://react.i18next.com/) a powerful internationalization/translation framework for React / React Native which is based on [i18next](https://www.i18next.com/).
+###  Browser Compatibility (IE11)
+ * [react-app-polyfill](https://www.npmjs.com/package/react-app-polyfill) 
+
+ *  [less common ES6 features like Array.includes()](https://stackoverflow.com/questions/43756211/best-way-to-polyfill-es6-features-in-react-app-that-uses-create-react-app)
 
 ## Notes
 * [Hooks equivalent to Life Cycle Methods](ReactAndJSNotes.md#hooks-equivalent-to-life-cycle-methods)
