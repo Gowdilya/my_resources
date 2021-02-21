@@ -36,12 +36,11 @@ Check out my portfolio project at:
 
 [GroupAnagram-Faster](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/groupAnagrams2FasterSolution.js)
 
-[MaxGreedyRope]
+
 [Rotate Array(Cyclic)](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/cyclic.js)
 
 [OddOccurences In Array](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/oddOccurenceInArray.js)
 
-(Smalles Number)[]
 [Tie Ropes](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/maxGreedyRope.js)
 
 [Two Sums: Array](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/TwoSum.js)
