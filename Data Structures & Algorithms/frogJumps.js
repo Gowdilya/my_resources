@@ -1,8 +1,6 @@
-// rotate Array K times
 
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
-
+// D is distance of one Jump
+// how many jumps from X to Y
 function jump(X, Y, D) {
   // write your code in JavaScript (Node.js 4.0.0)
   if(Y === X) {

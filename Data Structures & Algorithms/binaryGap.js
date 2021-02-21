@@ -1,5 +1,4 @@
-// cd to JavaScript Folder, in Terminal Type "node binaryGap.js" 
-// n % x, gives the remainder after division 
+// "0" is considered a gap, find and return the largest gap = streak of unbroken "0"
 
 var binaryGap = function (N) {
     // write your code in JavaScript (Node.js 4.0.0)     

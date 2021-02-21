@@ -1,4 +1,4 @@
-//Maximize Number of ropes merged whose length is >0
+//Maximize Number of ropes merged whose length is > K
 function solution(K, A) {
     // write your code in JavaScript (Node.js 4.0.0)
     

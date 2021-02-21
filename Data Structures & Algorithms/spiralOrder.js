@@ -1,3 +1,4 @@
+//Givern a matrix go clockwise from the first element and return a spiral Order of the matrix
 var matriks = [
   [1, 2, 3],
   [4, 5, 6],

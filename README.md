@@ -24,12 +24,33 @@ Check out my portfolio project at:
 
 [Add Two Numbers: Linked-List](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/AddTwoNumsLinkedList.js)
 
+[Binary Gap](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/binaryGap.js)
+
+[Binary Tree Inversion](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/bint-invert.js)
+
+[Count Number Of Islands(NON-Diagonal) :DFS](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/numberOfIslandsDFS.js)
 
 [GroupAnagram](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/groupAnagrams.js)
 
+[FrogJumps](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/frogJumps.js)
+
 [GroupAnagram-Faster](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/groupAnagrams2FasterSolution.js)
 
+[MaxGreedyRope]
+[Rotate Array(Cyclic)](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/cyclic.js)
+
+[OddOccurences In Array](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/oddOccurenceInArray.js)
+
+(Smalles Number)[]
+[Tie Ropes](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/maxGreedyRope.js)
+
 [Two Sums: Array](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/TwoSum.js)
+
+[Smallest Positive](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/smallestNumber.js)
+
+[Spiral Order](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/spiralOrder.js)
+
+
 
 [WordBreak](https://github.com/Gowdilya/my_resources/blob/master/Data%20Structures%20%26%20Algorithms/WordBreak.js)
 

@@ -1,7 +1,5 @@
-// rotate Array K times
-
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
+//Given Array Return a mapping of Unique elements to whether
+// they are occur"odd" or "even" number of times in the array
 
 function oddNum(A) {
   // write your code in JavaScript (Node.js 4.0.0)

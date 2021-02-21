@@ -1,7 +1,4 @@
-// rotate Array K times
-
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
+//Givern an array  of positive integers, return the smallest positive
 
 function smallestNum(A) {
 
