@@ -13,7 +13,7 @@ Check out my portfolio project at:
 
 ---
 # Important Topics
- [JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  | [GitHub](#github) | [Wix](wix) | [GraphQL](#graphQL) | [Virtualization](#virtualization) | [Performance](#performance)
+ [DataStructures & Algorithms](#Data-Structures-&-Algorithms) |[JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  | [GitHub](#github) | [Wix](wix) | [GraphQL](#graphQL) | [Virtualization](#virtualization) | [Performance](#performance)
 
 ---
 # Data Structures & Algorithms
