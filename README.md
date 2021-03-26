@@ -129,9 +129,11 @@ Check out my portfolio project at:
 ## CodePen
 * [3-Bouncy Ball Loader](https://codepen.io/mkurapov/pen/qaAmNE)
 
-## CSS
+## CSS 
+
 
 ### Notes
+* [CSS - Remove Outline](StyleGuide.md#Remove-Outline)
 * [darken() & lighten() colours with Sass or Less](StyleGuide.md#lighten--darken-colour)
 
 ### Links
