@@ -1,4 +1,4 @@
-#  Sass Guide - Gowdilya Jeyakumar
+#  Style Guide(CSS & Sass) - Gowdilya Jeyakumar
 
 
 ## Welcome
@@ -7,6 +7,14 @@
 ## Important Topics
 [Color](#color)
 
+# CSS
+ ### Remove Outline
+    
+    * { 
+	outline: none !important; 
+    }
+
+# Sass
 ## Color
  ### Lighten & Darken Colour
     The darken() function decreases lightness by a fixed amount, which is often not the desired effect. To make a color a certain percentage darker than it was before, use color.scale() instead.

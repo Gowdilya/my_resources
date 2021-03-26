@@ -132,7 +132,7 @@ Check out my portfolio project at:
 ## CSS
 
 ### Notes
-* [darken() & lighten() colours with Sass or Less](SassGuide.md#lighten--darken-colour)
+* [darken() & lighten() colours with Sass or Less](StyleGuide.md#lighten--darken-colour)
 
 ### Links
 * [When vertically spacing block elements use top margin instead of bottom margin](https://matthewjamestaylor.com/css-margin-top-vs-bottom)
