@@ -13,17 +13,17 @@ Check out my portfolio project at:
 
 ---
 # Important Topics
- * [DataStructures & Algorithms](#Data-Structures-&-Algorithms) 
- * [Data Visualization](#data-visualization) 
- * [GraphQL](#graphQL)
- * [GitHub](#github) 
- * [JavaScript](#javascript) 
- * [Performance](#performance)
- * [React](#react) 
- * [TypeScript](#typescript)
- * [UI](#ui)
- * [Virtualization](#virtualization)
- * [Wix](wix)  
+ [DataStructures & Algorithms](#Data-Structures-&-Algorithms) 
+ | [Data Visualization](#data-visualization) 
+ | [GraphQL](#graphQL)
+ | [GitHub](#github) 
+ | [JavaScript](#javascript) 
+ | [Performance](#performance)
+ | [React](#react) 
+ | [TypeScript](#typescript)
+ | [UI](#ui)
+ | [Virtualization](#virtualization)
+ | [Wix](wix)  
 
 ---
 # Data Structures & Algorithms
