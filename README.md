@@ -13,7 +13,17 @@ Check out my portfolio project at:
 
 ---
 # Important Topics
- [DataStructures & Algorithms](#Data-Structures-&-Algorithms) |[JavaScript](#javascript) | [React](#react) | [UI](#ui) | [Data Visualization](#data-visualization)  | [GitHub](#github) | [Wix](wix) | [GraphQL](#graphQL) | [Virtualization](#virtualization) | [Performance](#performance)
+ * [DataStructures & Algorithms](#Data-Structures-&-Algorithms) 
+ * [Data Visualization](#data-visualization) 
+ * [GraphQL](#graphQL)
+ * [GitHub](#github) 
+ * [JavaScript](#javascript) 
+ * [Performance](#performance)
+ * [React](#react) 
+ * [TypeScript](#typescript)
+ * [UI](#ui)
+ * [Virtualization](#virtualization)
+ * [Wix](wix)  
 
 ---
 # Data Structures & Algorithms
@@ -123,6 +133,12 @@ Check out my portfolio project at:
 * [react-table npm package](https://www.npmjs.com/package/react-table)
 
 * [Select Row onClick with React-Table](https://stackoverflow.com/questions/44845372/select-row-on-click-react-table)
+---
+# TypeScript
+
+## Videos
+[React with TypeScript Crash Course - 2021](https://www.youtube.com/watch?v=jrKcJxF0lAU)
+
 ---
 # UI
 
