@@ -1,4 +1,4 @@
-#  React & Java Script Notes - Gowdilya Jeyakumar
+Java Script Notes - Gowdilya Jeyakumar
 
 
 
